@@ -1,1 +1,0 @@
-puts "Hello there! I am learning how to push code from a forked repository. So far so good!."

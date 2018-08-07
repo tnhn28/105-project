@@ -1,1 +1,0 @@
-puts "Hey there! My name is Allison, and I'm loving this Ruby course!"

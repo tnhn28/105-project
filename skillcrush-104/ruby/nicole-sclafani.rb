@@ -1,1 +1,0 @@
-puts "Hi! I'm Nicole! This is me forking the Skillcrush 104 repository."

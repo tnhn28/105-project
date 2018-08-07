@@ -1,1 +1,0 @@
-puts "Hey there! My name is Rhea and I am practicing forking!"
